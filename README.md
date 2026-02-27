@@ -123,17 +123,4 @@ Open `http://localhost:3000`.
    - food logging
    - explore public visibility
 
-## Production Hardening Checklist
 
-- Add request rate limiting on AI endpoints
-- Add robust response validation for AI JSON outputs
-- Add centralized logging/observability
-- Add error boundaries/loading states
-- Add automated integration tests for critical routes
-
-## Bonus Feature Ideas
-
-- Pantry-aware recipe matching
-- Grocery list export (CSV/PDF)
-- Weekly grocery cost estimation
-- Ingredient substitution with allergy awareness
